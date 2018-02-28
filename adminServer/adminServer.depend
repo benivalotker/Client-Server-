@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1503427706 source:/home/beniva/Desktop/code block/adminServer/main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+	<string.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<sys/un.h>
+	<unistd.h>
+	<string>
+	<iostream>
+

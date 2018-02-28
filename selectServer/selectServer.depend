@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1503429041 source:/home/beniva/Desktop/code block/selectServer/main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string.h>
+	<string>
+	<unistd.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<netdb.h>
+	<sys/un.h>
+	<string>
+	<dirent.h>
+	<fstream>
+	<sstream>
+
